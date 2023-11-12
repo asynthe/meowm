@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       8a649400-3633-4fcc-aeb5-ff5e75212b99
+:END:
+#+title: meowm
+
+/What is meowm?/
+
+meowm is a dynamic window manager written in Rust based on Smithay. This is a personal project, so don't expect many updates.
+
+There are things i want to implement in the future, but this depends on how much time i can put into this project
+
+Things that i want to add:
++ Both a *simple* configuration (i3-like) and a complex one (xmonad-like)
++ *Animations* like Hyprland
++ A terminal that could be dragged from the top of the screen
+  - Or side, side-terminal
+  - Or any part, with the mouse
++ A zoom-in like wayfire
+
+Extra functionalities once it's working:
++ A swayidle replacement
++ A bar like waybar
++ A rofi/dmenu clone
+
+Things that would be cool but i don't think to add:
++ A cool 3d model of the workspaces wayfire-like
